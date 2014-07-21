@@ -45,8 +45,8 @@ void draw() {
 
   pushMatrix();
   translate(width*0.5, height*0.5);
-//  rotate(time);
-//  scale(1/time);
+//rotate(time);
+//scale(1/time);
   spiral(width*0.5, height*0.5);
   spiral(width, 0); 
   spiral(width, height); 

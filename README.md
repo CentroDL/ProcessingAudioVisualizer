@@ -1,4 +1,4 @@
-This is the second peer assessment assigment for the Creative Programming for Digital Media and Mobile Apps by the University of London.
+This is the second peer assessment assigment for Coursera.org's Creative Programming for Digital Media and Mobile Apps Course by the University of London.
 
 I pulled the audio from here: http://www.freesound.org/people/Timbre/sounds/218866/
 
